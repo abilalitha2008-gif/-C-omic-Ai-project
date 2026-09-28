@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+fpdf2
+huggingface_hub==1.33.0
